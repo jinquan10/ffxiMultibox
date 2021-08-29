@@ -1,0 +1,3 @@
+/mst ozawa /ws "Shadow of Death" [t]
+/wait 4
+/mst ali /ws "Sturmwind" [t]

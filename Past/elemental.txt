@@ -1,0 +1,6 @@
+/bind ^q /mst Bababa /ma "Aero" [t]
+/bind ^w /mst Bababa /ma "Water" [t]
+/bind ^e /mst Bababa /ma "Fire" [t]
+/bind ^r /mst Bababa /ma "Blizzard" [t]
+/bind ^t /mst Bababa /ma "Thunder" [t]
+/bind ^y /mst Bababa /ma "Stone" [t]

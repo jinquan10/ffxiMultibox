@@ -1,0 +1,11 @@
+/bind ^p /exec pcmd.txt;
+/exec globalParty.txt;
+/exec buffs.txt;
+/bind !a /exec allBuffs.txt;
+/exec cures.txt;
+/exec rdm.txt
+/exec mnk.txt
+/exec thf.txt;
+/exec ws.txt;
+/exec sc.txt;
+/exec elemental.txt;

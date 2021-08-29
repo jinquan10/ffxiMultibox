@@ -1,0 +1,3 @@
+/mst messi /ma "Foot Kick" [t];
+/wait 4
+/mst messi /ma "Head Butt" [t];

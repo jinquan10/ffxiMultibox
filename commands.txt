@@ -1,0 +1,37 @@
+/bind ^p /exec pcmd.txt;
+/exec globalParty.txt;
+
+/bind ^= /exec warp.txt;
+/bind ^o /mst messi /ma "Sneak" [t];
+/bind ^i /mst messi /ma "Invisible" [t];
+/bind ^s /mst messi /ma "Silence" [t];
+
+/bind ^` /exec cureTank.txt;
+/bind ^1 /exec cureTarget1.txt;
+/bind ^2 /exec cureTarget2.txt;
+/bind ^3 /exec cureTarget3.txt;
+/bind ^4 /exec cureTarget4.txt;
+/bind ^5 /exec cureTarget5.txt;
+/bind ^6 /exec cureTarget6.txt;
+/bind ^8 /exec yagudoDrink.txt;
+
+/bind ^z /mst woods /ma "Poisona" [t];
+/bind ^x /mst woods /ma "Blindna" [t];
+/bind ^v /mst woods /ma "Paralyna" [t];
+
+/bind ^9 /exec tempBuffs.txt;
+/bind ^0 /exec buffs.txt;
+
+/bind ^d /exec enfeeble.txt;
+/bind ^s /mst messi /ma "Silence" [t];
+
+/bind ^e /exec nuke.txt;
+
+/bind !f /mst ozawa /ja "Provoke" [t];
+/bind !d /mst shaq /ja "Provoke" [t];
+/bind !e /exec impaction.txt;
+/bind !r /mst ozawa /ws "Shield Break" [t];
+#/bind !t /exec detonation.txt;
+/bind !q /exec spamWS.txt;
+
+/bind !z /exec sata.txt;

@@ -1,0 +1,3 @@
+/mst Ali /ws "Shield Break" [t];
+/wait 4
+/mst messi /ws "Red Lotus Blade" [t];

@@ -1,0 +1,18 @@
+/bind ^p /exec 6box/pcmd.txt;
+/exec 6box/globalParty.txt;
+/bind !a /exec 6box/allBuffs.txt;
+
+/bind ^r /exec 6box/spamEnfeeble.txt;
+/bind ^e /exec 6box/spamNuke.txt;
+/bind !d /mst Hitme /ja "Provoke" [t];
+/bind !f /mst Fightme /ja "Provoke" [t];
+
+/bind ^` /mst Blindyou /ma "Protect" [t];
+/bind ^1 /mst Blindyou /ma "Cure II" [p5];
+/bind ^2 /mst Blindyou /ma "Cure II" [t];
+/bind !s /mst Biteyou /ja "Sneak Attack" <me>;
+
+/bind !q /exec 6box/wsDump.txt;
+/bind !w /exec 6box/scFusion.txt;
+/bind !e /exec 6box/scScission.txt;
+/bind !r /exec 6box/fusion6WS.txt;

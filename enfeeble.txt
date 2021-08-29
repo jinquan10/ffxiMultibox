@@ -1,0 +1,17 @@
+/mst messi /ma "Dia" [t];
+/wait 5
+/mst messi /ma "Blind" [t];
+
+#/mst messi /ma "Shock" [t];
+#/mst messi /ma "Dia II" [t];
+#/wait 6
+#/mst messi /ma "Distract" [t];
+#/mst messi /ma "Choke" [t];
+#/wait 5
+#/mst messi /ma "Paralyze" [t];
+#/mst messi /ma "Burn" [t];
+#/wait 5
+#/mst messi /ma "Aspir" [t];
+#/mst messi /ma "Slow" [t];
+#/wait 5
+#/mst messi /ma "Blind" [t];

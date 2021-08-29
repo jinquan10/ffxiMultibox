@@ -1,0 +1,1 @@
+/bind !d /mst Lalala /ja "Provoke" [t]

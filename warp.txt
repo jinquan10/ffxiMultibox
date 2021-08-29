@@ -1,0 +1,3 @@
+/mss /equip ring1 "Warp Ring";
+/wait 10;
+/mss /item "Warp Ring" <me>;

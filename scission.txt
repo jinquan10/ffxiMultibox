@@ -1,0 +1,6 @@
+/mst Shaq /ws "Raging Axe" [t];
+/wait 4
+/mst messi /ws "Fast Blade" [t];
+/wait 2
+/mst messi /ma "Stone" [t];
+/mst messi /ma "Stone" [t];

@@ -1,0 +1,3 @@
+/mst Bababa /ja "Elemental Seal" <me>;
+/wait 2;
+/mst Bababa /ma "Sleep" [t];

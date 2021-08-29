@@ -1,0 +1,5 @@
+/mst blindyou /ma "Dia" [t];
+/wait 4;
+/mst blindyou /ma "Blind" [t];
+/wait 5;
+/mst blindyou /ma "Slow" [t];

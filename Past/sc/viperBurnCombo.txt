@@ -1,0 +1,7 @@
+/exec /ws/saViper.txt
+/sleep 6
+/exec /ws/burningBlade.txt
+/sleep 2
+/exec /ws/comboBoost.txt
+/sleep 2
+/mst Bababa /ma "Fire" [t]

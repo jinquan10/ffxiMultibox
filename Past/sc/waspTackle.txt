@@ -1,0 +1,5 @@
+/exec /ws/saWasp.txt
+/wait 4
+/exec /ws/tackleBoost.txt
+/wait 2
+/mst Bababa /ma "Water" [t]

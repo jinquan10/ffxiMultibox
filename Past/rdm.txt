@@ -1,0 +1,5 @@
+/bind ^s /mst Bababa /ma "Silence" [t]
+/bind ^d /mst Bababa /ma "Paralyze" [t]
+/bind ^b /mst Bababa /ma "Blind" [t]
+/bind ^f /mst Bababa /ma "Dia" [t]
+/bind ^v /exec enfeeble/bind.txt;

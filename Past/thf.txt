@@ -1,0 +1,3 @@
+/bind !t /mst Hehehe /ja "Steal" <t>
+/bind !r /mst Hehehe /ja "Sneak Attack" <me>
+/bind !f /mst Hehehe /ja "Trick Attack" <me>

@@ -1,0 +1,4 @@
+#/mst Hehehe /ja "Berserk" <me>
+#/mst Lalala /ja "Dodge" <me>
+#/wait 3
+#/mst Lalala /ja "Focus" <me>

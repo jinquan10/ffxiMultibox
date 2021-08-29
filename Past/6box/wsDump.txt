@@ -1,0 +1,6 @@
+/mst Fightme /ws "Sturmwind" [t];
+/mst Imfood /ws "Rock Crusher" [t];
+/mst Blindyou /ws "Burning Blade" [t];
+/mst Biteyou /ws "Shadowstitch" [t];
+/mst Imaverage /ws "Sturmwind" [t];
+/mst Hitme /ws "Raging Axe" [t];

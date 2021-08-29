@@ -1,0 +1,8 @@
+/mst Hitme /ws "Raging Axe" [t];
+/wait 2
+/mst Biteyou /ja "Sneak Attack" <me>;
+/wait 2
+/mst Biteyou /ws "Wasp Sting" [t];
+/wait 2
+/mst Imfood /ma "Stone" [t];
+/mst Blindyou /ma "Stone" [t];

@@ -1,0 +1,14 @@
+/fps 1
+/load deeps
+/addon load recast
+/pcmd add federer;
+/wait 2;
+/pcmd add giorgi;
+/wait 2;
+/pcmd add messi;
+/wait 2;
+/pcmd add shaq;
+/wait 2;
+/pcmd add woods;
+/wait 2;
+/mss /join;

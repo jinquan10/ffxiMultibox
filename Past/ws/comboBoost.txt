@@ -1,0 +1,3 @@
+/mst Lalala /ja "Boost" <me>
+/wait 2
+/mst Lalala /ws "Raging Fists" <t>

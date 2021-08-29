@@ -1,0 +1,3 @@
+/mst Hehehe /ja "Sneak Attack" <me>
+/wait 2
+/mst Hehehe /ws "Shadowstitch" <t>

@@ -1,0 +1,3 @@
+/mst woods /ma "Cure" [p1];
+/mst messi /ma "Cure" [p1];
+/mst shaq /ma "Cure" [p1];

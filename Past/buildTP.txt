@@ -1,0 +1,8 @@
+/mst Bababa /ma "Paralyze" [t];
+/mst Lalala /ja "Provoke" [t];
+/wait 2;
+/mss /attack [t];
+/wait 4;
+/mst Bababa /ma "Blind" [t];
+/wait 3;
+/mss /attack [t];

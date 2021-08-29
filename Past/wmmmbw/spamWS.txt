@@ -1,0 +1,11 @@
+/mst biteyou /ws "Raging Axe" [t];
+/mst blindyou /ws "Heavy Swing" [t];
+/mst imfood /ws "Shining Strike" [t];
+
+/mst fightme /ja "Boost" <me>;
+/mst imaverage /ja "Boost" <me>;
+/mst hitme /ja "Boost" <me>;
+/wait 2
+/mst fightme /ws "Combo" [t];
+/mst imaverage /ws "Combo" [t];
+/mst hitme /ws "Combo" [t];

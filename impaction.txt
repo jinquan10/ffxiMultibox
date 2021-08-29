@@ -1,0 +1,9 @@
+/mst shaq /ws "Smash Axe" [t];
+/wait 2
+/mst giorgi /ja "Boost" <me>;
+/wait 2
+/mst giorgi /ws "Combo" [t];
+/wait 2
+/mst messi /ma "Thunder" [t];
+/wait 3
+/mst messi /ma "Thunder" [t];

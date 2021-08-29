@@ -1,0 +1,4 @@
+/mst shaq /lockon
+/mst shaq /follow <p6>
+/wait 5
+/mst shaq /lockon

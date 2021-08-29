@@ -1,0 +1,5 @@
+/bind !0 /ms followme off;
+/bind !9 /ms followme on;
+/bind !` /mss /heal;
+/bind !1 /mss /attack [t];
+/bind !2 /exec buildTP.txt;

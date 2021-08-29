@@ -1,0 +1,4 @@
+/mst giorgi /attack [t];
+/mst shaq /attack [t];
+/mst federer /attack [t];
+/mst ozawa /attack [t];

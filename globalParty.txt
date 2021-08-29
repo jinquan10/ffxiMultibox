@@ -1,0 +1,7 @@
+/bind !` /exec toggleLock.txt
+/bind !1 /exec meleeAtk.txt;
+/bind !2 /exec meleeFollowLead.txt;
+/bind !3 /exec everyoneFollow.txt;
+/bind !4 /exec noOneFollow.txt;
+/bind !5 /exec casterHeal.txt;
+/bind !6 /mss /heal;

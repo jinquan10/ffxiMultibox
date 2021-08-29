@@ -1,0 +1,23 @@
+/bind ^p /exec 6box/pcmd.txt;
+/exec 6box/globalParty.txt;
+
+/bind !e /mss /ma "Stone" [t];
+
+/bind ^1 /exec wmmmbw/cureTank.txt;
+/bind ^2 /exec wmmmbw/cureTarget.txt;
+/bind ^3 /exec wmmmbw/curaga.txt;
+
+/bind ^f /mst Imfood /ma "Dia" [t];
+/bind ^g /mst imfood /ma "Banish" [t];
+/bind ^9 /mst imfood /ma "Protect" [t];
+/bind ^0 /mst imfood /ma "Shell" [t];
+
+/bind ^z /mst imfood /ma "Poisona" [t];
+/bind ^x /mst imfood /ma "Paralyna" [t];
+/bind ^v /mst imfood /ma "Blindna" [t];
+
+/bind ^q /exec wmmmbw/spamNuke.txt;
+
+/bind !q /exec wmmmbw/spamWS.txt;
+/bind !d /mst biteyou /ja "Provoke" [t];
+/bind !f /mst hitme /ja "Provoke" [t];

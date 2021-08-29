@@ -1,0 +1,3 @@
+#/mst Imfood /ja "Divine Seal" <me>;
+#/wait 2
+/mst Imfood /ma "Curaga" <me>;

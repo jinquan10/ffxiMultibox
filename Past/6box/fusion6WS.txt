@@ -1,0 +1,19 @@
+/mst Imfood /ws "Rock Crusher" [t];
+/wait 4
+/mst Blindyou /ws "Burning Blade" [t];
+/wait 2
+/mst Imfood /ma "Fire" [t];
+/wait 2
+/mst Blindyou /ma "Fire" [t];
+/mst Fightme /ws "Sturmwind" [t];
+/mst Biteyou /ja "Sneak Attack" <me>;
+/wait 2
+/mst Biteyou /ws "Shadowstitch" [t];
+/wait 2
+/mst Blindyou /ma "Water" [t];
+/mst Hitme /ws "Smash Axe" [t];
+/wait 2
+/mst Imaverage /ws "Combo" [t];
+/wait 2
+/mst Imfood /ma "Thunder" [t];
+#/mst Blindyou /ma "Thunder" [t];

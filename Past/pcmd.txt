@@ -1,0 +1,7 @@
+/pcmd add Bababa;
+/wait 2;
+/pcmd add Lalala;
+/wait 2;
+/mst Bababa /join;
+/wait 2;
+/mst Lalala /join;

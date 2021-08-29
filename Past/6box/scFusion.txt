@@ -1,0 +1,9 @@
+/mst Blindyou /ws "Burning Blade" [t];
+/wait 3;
+/mst Imaverage /ja "Boost" <me>;
+/wait 2
+/mst Imaverage /ws "Combo" [t];
+/wait 2
+/mst Imfood /ma "Fire" [t];
+/wait 1
+/mst Blindyou /ma "Fire" [t];

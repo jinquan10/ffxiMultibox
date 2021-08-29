@@ -1,0 +1,4 @@
+/bind !q /exec /ws/saViper.txt
+/bind !w /exec /ws/fastBlade.txt
+/bind !s /exec /ws/burningBlade.txt
+/bind !e /exec /ws/comboBoost.txt

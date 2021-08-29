@@ -1,0 +1,7 @@
+/mst ozawa /ja "Berserk" <me>;
+/mst giorgi /ja "Boost" <me>;
+/mst shaq /ja "Defender" <me>;
+/wait 5;
+/mst giorgi /ja "Focus" <me>;
+/mst shaq /ja "Warcry" <me>;
+/mst ozawa /ja "Warcry" <me>;

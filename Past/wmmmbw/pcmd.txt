@@ -1,0 +1,11 @@
+/pcmd add fightme;
+/wait 2;
+/pcmd add hitme;
+/wait 2;
+/pcmd add imfood;
+/wait 2;
+/pcmd add imaverage;
+/wait 2;
+/pcmd add blindyou;
+/wait 2;
+/mss /join;

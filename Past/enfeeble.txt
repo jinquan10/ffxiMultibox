@@ -1,0 +1,5 @@
+/mst Bababa /ma "Paralyze" [t];
+/wait 5
+/mst Bababa /ma "Blind" [t];
+/wait 5
+/mst Bababa /ma "Dia" [t];
