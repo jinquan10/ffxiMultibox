@@ -1,6 +1,0 @@
-/mst woods /ms follow off;
-/mst messi /ms follow off;
-
-/mst federer /ms follow on;
-/mst shaq /ms follow on;
-/mst giorgi /ms follow on;

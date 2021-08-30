@@ -1,6 +1,8 @@
-/mst Shaq /ws "Raging Axe" [t];
-/wait 4
-/mst messi /ws "Fast Blade" [t];
+/mst Shaq /ws "Burning Blade" [t];
+/wait 2
+/mst ozawa /ja "Sneak Attack" <me>;
+/wait 2
+/mst ozawa /ws "Wasp Sting" [t];
 /wait 2
 /mst messi /ma "Stone" [t];
-/mst messi /ma "Stone" [t];
+/mst woods /ma "Stone" [t];

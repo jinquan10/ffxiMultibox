@@ -27,11 +27,15 @@
 
 /bind ^e /exec nuke.txt;
 
-/bind !f /mst ozawa /ja "Provoke" [t];
+/bind !s /mst ozawa /ja "Sneak Attack" <me>
+
+######### SCs ##########
+
+/bind !f /mst giorgi /ja "Provoke" [t];
 /bind !d /mst shaq /ja "Provoke" [t];
-/bind !e /exec impaction.txt;
-/bind !r /mst ozawa /ws "Shield Break" [t];
-#/bind !t /exec detonation.txt;
+/bind !e /exec scission.txt;
+/bind !w /exec reverb.txt;
 /bind !q /exec spamWS.txt;
 
 /bind !z /exec sata.txt;
+/bind !c /ra <t>;

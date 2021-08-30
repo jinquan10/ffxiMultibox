@@ -1,3 +1,3 @@
-/mst messi /ma "Cure" "Shaq";
+/mst messi /ma "Cure II" "Shaq";
 /mst woods /ma "Cure" "Shaq";
 /mst shaq /ma "Cure" "Shaq";

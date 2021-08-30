@@ -1,0 +1,6 @@
+/mst giorgi /ws "Iron Tempest" [t]
+/wait 4
+/mst federer /ws "Dark Harvest" [t]
+/wait 2
+/mst woods /ma "Water" [t]
+/mst messi /ma "Water" [t]

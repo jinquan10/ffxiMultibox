@@ -1,4 +1,3 @@
 /mst federer /lockon
 /mst shaq /lockon
 /mst giorgi /lockon
-/mst ozawa /lockon

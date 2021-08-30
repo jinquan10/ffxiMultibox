@@ -1,15 +1,23 @@
 /mss /ms attemptzone on
+
 /mst shaq /item "Rabbit Pie" <me>;
 /mst messi /item "Melon Pie +1" <me>;
 /mst woods /item "Melon Pie +1" <me>;
-/mst ozawa /item "Red Curry Bun +1" <me>
-/mst giorgi /item "Red curry bun +1" <me>
-/mst federer /item "Red curry bun +1" <me>
-#/mst ozawa /item "plate of sole sushi +1" <me>
-#/mst giorgi /item "plate of sole sushi +1" <me>
+
+/mst ozawa /item "plate of sole sushi +1" <me>
+/mst giorgi /item "plate of sole sushi +1" <me>
+/mst federer /item "plate of sole sushi +1" <me>
+
+#/mst ozawa /item "Red Curry Bun +1" <me>
+#/mst giorgi /item "Red curry bun +1" <me>
+#/mst federer /item "Red curry bun +1" <me>
+
 /wait 5;
-/mst messi /ma "Protect" "Shaq";
-/wait 7;
+
+/mst shaq /ma "Protect" "Shaq";
 /mst messi /ma "Protect" "Woods";
-#/wait 5;
-#/mst woods /ma "Shellra" <me>;
+/wait 7;
+/mst shaq /ma "Protect" "Giorgi";
+/mst messi /ma "Protect" "Federer";
+/wait 7;
+/mst messi /ma "Shell" "Shaq";
