@@ -18,6 +18,8 @@
 /bind ^z /mst woods /ma "Poisona" [t];
 /bind ^x /mst woods /ma "Blindna" [t];
 /bind ^v /mst woods /ma "Paralyna" [t];
+/bind ^b /mst shaq /ma "Banish" [t];
+/bind ^q /mst woods /ma "Curaga" "Shaq";
 
 /bind ^9 /exec tempBuffs.txt;
 /bind ^0 /exec buffs.txt;
@@ -31,7 +33,7 @@
 
 ######### SCs ##########
 
-/bind !f /mst giorgi /ja "Provoke" [t];
+/bind !f /mst federer /ja "Provoke" [t];
 /bind !d /mst shaq /ja "Provoke" [t];
 /bind !e /exec scission.txt;
 /bind !w /exec reverb.txt;

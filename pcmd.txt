@@ -1,3 +1,4 @@
+/mss /ms attemptzone on
 /fps 1
 /load deeps
 /addon load recast

@@ -1,5 +1,3 @@
-/mss /ms attemptzone on
-
 /mst shaq /item "Rabbit Pie" <me>;
 /mst messi /item "Melon Pie +1" <me>;
 /mst woods /item "Melon Pie +1" <me>;
