@@ -1,0 +1,8 @@
+/mst shaq /ws "Burning Blade" [t]
+/wait 2
+/mst Giorgi /ja "Boost" <me>
+/wait 2
+/mst Giorgi /ws "Shield Break" [t]
+/wait 2
+/mst woods /ma "Fire" [t]
+/mst messi /ma "Fire" [t]

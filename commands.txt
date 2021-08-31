@@ -13,7 +13,9 @@
 /bind ^4 /exec cureTarget4.txt;
 /bind ^5 /exec cureTarget5.txt;
 /bind ^6 /exec cureTarget6.txt;
-/bind ^8 /exec yagudoDrink.txt;
+/bind ^j /mst shaq /item "Bottle of yagudo drink" <me>
+/bind ^k /mst messi /item "Bottle of yagudo drink" <me>
+/bind ^l /mst woods /item "Bottle of yagudo drink" <me>
 
 /bind ^z /mst woods /ma "Poisona" [t];
 /bind ^x /mst woods /ma "Blindna" [t];
@@ -35,9 +37,10 @@
 
 /bind !f /mst federer /ja "Provoke" [t];
 /bind !d /mst shaq /ja "Provoke" [t];
-/bind !e /exec scission.txt;
-/bind !w /exec reverb.txt;
 /bind !q /exec spamWS.txt;
+/bind !e /exec distortion.txt
+/bind !r /exec fusion.txt
+
 
 /bind !z /exec sata.txt;
 /bind !c /ra <t>;
