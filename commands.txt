@@ -22,6 +22,7 @@
 /bind ^v /mst woods /ma "Paralyna" [t];
 /bind ^b /mst shaq /ma "Banish" [t];
 /bind ^q /mst woods /ma "Curaga" "Shaq";
+/bind ^r /mst messi /ma "Regen" [t];
 
 /bind ^9 /exec tempBuffs.txt;
 /bind ^0 /exec buffs.txt;

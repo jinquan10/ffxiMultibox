@@ -1,10 +1,11 @@
 /mst messi /ma "Dia" [t];
 /mst woods /ma "Shock" [t];
-/wait 4
+/wait 6
 /mst messi /ma "Paralyze" [t];
 /mst messi /ma "Choke" [t];
-/wait 6
+/wait 5
 /mst messi /ma "Blind" [t];
+/mst messi /ma "Burn" [t];
 /wait 5
 /mst messi /ma "Slow" [t];
 
@@ -14,7 +15,7 @@
 #/wait 6
 #/mst messi /ma "Distract" [t];
 #/wait 5
-#/mst messi /ma "Burn" [t];
+
 #/wait 5
 #/mst messi /ma "Aspir" [t];
 #/wait 5

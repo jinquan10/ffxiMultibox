@@ -2,5 +2,8 @@
 /wait 4
 /mst federer /ws "Slice" [t]
 /wait 2
-/mst woods /ma "Water" [t]
+/mst woods /ma "Blizzard" [t]
+/mst messi /ma "Water" [t]
+/wait 3
+/mst woods /ma "Blizzard" [t]
 /mst messi /ma "Water" [t]

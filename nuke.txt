@@ -1,11 +1,14 @@
 /mst woods /ma "Thunder" [t];
-/mst woods /ma "Fire" [t];
+/mst messi /ma "Blizzard" [t];
 /wait 5
 /mst woods /ma "Blizzard" [t];
-/mst messi /ma "Water" [t];
+/mst messi /ma "Fire" [t];
 /wait 5
 /mst woods /ma "Fire" [t];
-/mst messi /ma "Stone" [t];
+/mst messi /ma "Aero" [t];
+
+
+
 
 #/mst woods /ma "Aero II" [t];
 #/wait 5

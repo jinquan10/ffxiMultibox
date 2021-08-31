@@ -1,6 +1,4 @@
-/mss /ws "Combo" [t]
-
-#/mst giorgi /ws "Shield Break" [t]
-#/mst shaq /ws "Burning Blade" [t]
-#/mst federer /ws "Slice" [t]
-#/mst ozawa /ws "Wasp Sting" [t]
+/mst giorgi /ws "Shield Break" [t]
+/mst shaq /ws "Fast Blade" [t]
+/mst federer /ws "Slice" [t]
+/mst ozawa /ws "Hard Slash" [t]

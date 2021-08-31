@@ -6,3 +6,6 @@
 /wait 2
 /mst woods /ma "Fire" [t]
 /mst messi /ma "Fire" [t]
+/wait 3
+/mst woods /ma "Fire" [t]
+/mst messi /ma "Fire" [t]
