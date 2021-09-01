@@ -36,11 +36,11 @@
 
 ######### SCs ##########
 
-/bind !f /mst federer /ja "Provoke" [t];
+/bind !f /mst giorgi /ja "Provoke" [t];
 /bind !d /mst shaq /ja "Provoke" [t];
 /bind !q /exec spamWS.txt;
-/bind !e /exec distortion.txt
-/bind !r /exec fusion.txt
+/bind !e /exec fragmentation.txt
+/bind !r /exec scission.txt
 
 
 /bind !z /exec sata.txt;

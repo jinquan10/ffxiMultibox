@@ -2,10 +2,10 @@
 /mst woods /ma "Shock" [t];
 /wait 6
 /mst messi /ma "Paralyze" [t];
-/mst messi /ma "Choke" [t];
+/mst woods /ma "Choke" [t];
 /wait 5
 /mst messi /ma "Blind" [t];
-/mst messi /ma "Burn" [t];
+/mst woods /ma "Burn" [t];
 /wait 5
 /mst messi /ma "Slow" [t];
 
