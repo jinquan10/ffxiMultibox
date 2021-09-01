@@ -1,7 +1,7 @@
-/mst ozawa /ja "Berserk" <me>;
 /mst giorgi /ja "Boost" <me>;
-/mst shaq /ja "Sentinel" <me>;
 /mst federer /ja "Last Resort" <me>;
 /wait 4
 /mst giorgi /ja "Berserk" <me>;
-/mst federer /ja "Berserk" <me>;
+#/mst federer /ja "Berserk" <me>;
+#/mst ozawa /ja "Berserk" <me>;
+#/mst shaq /ja "Sentinel" <me>;

@@ -21,8 +21,10 @@
 /bind ^x /mst woods /ma "Blindna" [t];
 /bind ^v /mst woods /ma "Paralyna" [t];
 /bind ^b /mst shaq /ma "Banish" [t];
-/bind ^q /mst woods /ma "Curaga" "Shaq";
+/bind ^q /exec curaga.txt
 /bind ^r /mst messi /ma "Regen" [t];
+/bind ^a /exec sleepga.txt;
+/bind ^w /exec sleep.txt;
 
 /bind ^9 /exec tempBuffs.txt;
 /bind ^0 /exec buffs.txt;
@@ -32,7 +34,7 @@
 
 /bind ^e /exec nuke.txt;
 
-/bind !s /mst ozawa /ja "Sneak Attack" <me>
+/bind !s /exec sa.txt
 
 ######### SCs ##########
 
@@ -40,7 +42,7 @@
 /bind !d /mst shaq /ja "Provoke" [t];
 /bind !q /exec spamWS.txt;
 /bind !e /exec fragmentation.txt
-/bind !r /exec scission.txt
+/bind !r /exec reverb.txt
 
 
 /bind !z /exec sata.txt;

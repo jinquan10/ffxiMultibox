@@ -1,2 +1,2 @@
-/mst Imfood /ma "Cure II" [p0];
+/mst Imfood /ma "Cure" [p0];
 /mst Blindyou /ma "Cure" [p0];

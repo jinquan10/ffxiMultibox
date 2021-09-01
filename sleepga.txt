@@ -1,0 +1,3 @@
+/mst woods /ja "Elemental Seal" <me>
+/wait 2
+/mst woods /ma "Sleepga" [t]

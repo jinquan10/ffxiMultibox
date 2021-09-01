@@ -2,8 +2,8 @@
 /bind ^2 /mst Bababa /ma "Cure" [p1];
 /bind ^3 /mst Bababa /ma "Cure" [p2];
 
-/bind ^4 /mst Bababa /ma "Cure II" [p0];
-/bind ^5 /mst Bababa /ma "Cure II" [p1];
-/bind ^6 /mst Bababa /ma "Cure II" [p2];
+/bind ^4 /mst Bababa /ma "Cure" [p0];
+/bind ^5 /mst Bababa /ma "Cure" [p1];
+/bind ^6 /mst Bababa /ma "Cure" [p2];
 
 /bind ^a /mst Bababa /ma "Regen" [t];

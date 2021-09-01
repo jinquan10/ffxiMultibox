@@ -1,0 +1,3 @@
+/mst messi /ja "Elemental Seal" <me>
+/wait 2
+/mst messi /ma "Sleep" [t]

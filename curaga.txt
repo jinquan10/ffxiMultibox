@@ -1,0 +1,3 @@
+/mst woods /ja "Divine Seal" <me>
+/wait 2
+/mst woods /ma "Curaga" "Shaq";

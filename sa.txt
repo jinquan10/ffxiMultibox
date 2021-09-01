@@ -1,0 +1,3 @@
+/mst ozawa /equipset 2
+/wait 2
+/mst ozawa /ja "Sneak Attack" <me>

@@ -5,7 +5,7 @@
 /mst giorgi /ws "Sturmwind" [t]
 /wait 2
 /mst woods /ma "Thunder" [t]
-/mst messi /ma "Aero" [t]
+/mst messi /ma "Thunder" [t]
 /wait 3
 /mst woods /ma "Thunder" [t]
-/mst messi /ma "Aero" [t]
+/mst messi /ma "Thunder" [t]
