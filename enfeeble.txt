@@ -1,9 +1,9 @@
 /mst messi /ma "Dia" [t];
+/mst woods /ma "Choke" [t];
 #/mst messi /ma "Distract" [t];
-/mst woods /ma "Shock" [t];
 /wait 6
 /mst messi /ma "Paralyze" [t];
-/mst woods /ma "Choke" [t];
+/mst woods /ma "Shock" [t];
 /wait 5
 /mst messi /ma "Blind" [t];
 /mst woods /ma "Burn" [t];
@@ -14,8 +14,6 @@
 
 #/mst messi /ma "Dia II" [t];
 #/wait 6
-
-
 #/wait 5
 #/mst messi /ma "Aspir" [t];
 #/wait 5

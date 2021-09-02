@@ -8,8 +8,8 @@
 /bind !f /mst Fightme /ja "Provoke" [t];
 
 /bind ^` /mst Blindyou /ma "Protect" [t];
-/bind ^1 /mst Blindyou /ma "Cure" [p5];
-/bind ^2 /mst Blindyou /ma "Cure" [t];
+/bind ^1 /mst Blindyou /ma "Cure II" [p5];
+/bind ^2 /mst Blindyou /ma "Cure II" [t];
 /bind !s /mst Biteyou /ja "Sneak Attack" <me>;
 
 /bind !q /exec 6box/wsDump.txt;

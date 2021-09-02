@@ -1,7 +1,8 @@
 /mst ozawa /equipset 2
 /mst shaq /ws "Fast Blade" [t]
-/wait 2
 /mst ozawa /ja "Sneak Attack" <me>
+/wait 2
+/mst ozawa /ja "Trick Attack" <me>
 /wait 2
 /mst ozawa /ws "Shadowstitch" [t]
 /wait 2
