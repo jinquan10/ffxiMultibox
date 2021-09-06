@@ -1,6 +1,5 @@
 /mst ozawa /equipset 2
+/wait 1
 /mst ozawa /ja "Sneak Attack" <me>
-/wait 2
-/mst ozawa /ja "Trick Attack" <me>
 /wait 5
 /mst ozawa /equipset 1

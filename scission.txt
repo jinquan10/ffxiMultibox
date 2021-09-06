@@ -2,7 +2,7 @@
 /wait 2
 /mst ozawa /ja "Sneak Attack" <me>;
 /wait 2
-/mst ozawa /ws "Hard Slash" [t];
+/mst ozawa /ws "Viper Bite" [t];
 /wait 1
 /mst woods /ma "Stone II" [t];
 /wait 1

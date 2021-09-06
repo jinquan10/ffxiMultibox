@@ -1,14 +1,13 @@
-/mst ozawa /equipset 2
+/mst ozawa /equipset 3
 /mst shaq /ws "Fast Blade" [t]
-/mst ozawa /ja "Sneak Attack" <me>
 /wait 2
-/mst ozawa /ja "Trick Attack" <me>
+/mst ozawa /ja "Sneak Attack" <me>
 /wait 2
 /mst ozawa /ws "Shadowstitch" [t]
 /wait 2
-/mst woods /ma "Water" [t]
+/mst woods /ma "Water II" [t]
 /mst messi /ma "Water" [t]
 /wait 3
-/mst woods /ma "Water" [t]
+/mst woods /ma "Water II" [t]
 /mst messi /ma "Water" [t]
 /mst ozawa /equipset 1

@@ -1,14 +1,15 @@
-/mst messi /ma "Dia" [t];
-/mst woods /ma "Choke" [t];
-#/mst messi /ma "Distract" [t];
+/mst woods /ma "Frost" [t];
+/mst messi /ma "Distract" [t];
 /wait 6
+/mst messi /ma "Dia II" [t];
+/mst woods /ma "Drown" [t];
+/wait 5
 /mst messi /ma "Paralyze" [t];
-/mst woods /ma "Shock" [t];
-/wait 5
-/mst messi /ma "Blind" [t];
-/mst woods /ma "Burn" [t];
-/wait 5
-/mst messi /ma "Slow" [t];
+/mst woods /ma "Rasp" [t];
+#/wait 5
+#/mst messi /ma "Slow" [t];
+#/wait 5
+#/mst messi /ma "Blind" [t];
 
 
 

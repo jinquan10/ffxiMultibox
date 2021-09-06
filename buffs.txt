@@ -12,23 +12,14 @@
 
 /wait 5;
 
-/mst shaq /ma "Protect" "Woods";
+/mst shaq /ma "Protect II" "Woods";
 /mst messi /ma "Protect II" "Shaq";
 /wait 7;
-/mst shaq /ma "Protect" "Giorgi";
 /mst messi /ma "Protect II" "Federer";
 /wait 7;
 /mst messi /ma "Protect II" "Ozawa";
 /wait 7;
-/mst messi /ma "Shell" "Shaq";
-
-
-#/mst shaq /ma "Protect II" "Shaq";
-#/mst messi /ma "Protect II" "Woods";
-#/wait 7;
-#/mst shaq /ma "Protect II" "Giorgi";
-#/mst messi /ma "Protect II" "Federer";
-#/wait 7;
-#/mst messi /ma "Protect II" "Ozawa";
-#/wait 7;
+/mst messi /ma "Protect II" "Giorgi";
+/wait 7;
+/mst messi /ma "Protect II" "Messi";
 #/mst messi /ma "Shell" "Shaq";

@@ -35,6 +35,8 @@
 /bind ^e /exec nuke.txt;
 
 /bind !s /exec sa.txt
+/bind !t /exec ta.txt
+/bind !x /exec sata.txt
 
 ######### SCs ##########
 
@@ -42,8 +44,7 @@
 /bind !d /mst shaq /ja "Provoke" [t];
 /bind !q /exec spamWS.txt;
 /bind !e /exec fragmentation.txt
-/bind !r /exec reverb.txt
+/bind !r /exec scission.txt
 
-
-/bind !z /exec sata.txt;
+/bind !z /mst shaq /lockon;
 /bind !c /ra <t>;
