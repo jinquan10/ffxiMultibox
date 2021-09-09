@@ -6,7 +6,7 @@
 /bind ^i /mst messi /ma "Invisible" [t];
 /bind ^s /mst messi /ma "Silence" [t];
 
-/bind ^` /exec cureTank.txt;
+/bind ^` /mst messi /ja "Convert" <me>
 /bind ^1 /exec cureTarget1.txt;
 /bind ^2 /exec cureTarget2.txt;
 /bind ^3 /exec cureTarget3.txt;
@@ -24,7 +24,7 @@
 /bind ^q /exec curaga.txt
 /bind ^r /mst messi /ma "Regen" [t];
 /bind ^a /exec sleepga.txt;
-/bind ^w /exec sleep.txt;
+/bind ^w /mst messi /ma "Refresh" [t];
 
 /bind ^9 /exec tempBuffs.txt;
 /bind ^0 /exec buffs.txt;
@@ -40,7 +40,7 @@
 
 ######### SCs ##########
 
-/bind !f /mst giorgi /ja "Provoke" [t];
+/bind !f /mst shaq /ma "Flash" [t];
 /bind !d /mst shaq /ja "Provoke" [t];
 /bind !q /exec spamWS.txt;
 /bind !e /exec fragmentation.txt

@@ -6,10 +6,10 @@
 /wait 5
 /mst messi /ma "Paralyze" [t];
 /mst woods /ma "Rasp" [t];
-#/wait 5
-#/mst messi /ma "Slow" [t];
-#/wait 5
-#/mst messi /ma "Blind" [t];
+/wait 5
+/mst messi /ma "Slow" [t];
+/wait 5
+/mst messi /ma "Blind" [t];
 
 
 

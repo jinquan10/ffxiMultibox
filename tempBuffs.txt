@@ -1,7 +1,12 @@
-/mst giorgi /ja "Boost" <me>;
+/mst giorgi /ja "Berserk" <me>;
 /mst federer /ja "Last Resort" <me>;
 /wait 4
-/mst giorgi /ja "Berserk" <me>;
+/mst giorgi /ja "Aggressor" <me>;
 /mst federer /ja "Berserk" <me>;
 /mst ozawa /ja "Berserk" <me>;
 /mst shaq /ja "Sentinel" <me>;
+/wait 4
+/mst shaq /ja "Defender" <me>;
+/mst giorgi /ja "Focus" <me>;
+/wait 4
+/mst giorgi /ja "Warcry" <me>;
