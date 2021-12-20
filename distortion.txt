@@ -1,9 +1,17 @@
-/mst ozawa /ws "Power Slash" [t]
-/wait 4
-/mst federer /ws "Slice" [t]
+/mst ozawa /equipset 2
 /wait 2
-/mst woods /ma "Blizzard" [t]
-/mst messi /ma "Water" [t]
-/wait 3
-/mst woods /ma "Blizzard" [t]
-/mst messi /ma "Water" [t]
+/mst federer /ws "Vorpal Scythe" [t]
+/wait 1
+/mst ozawa /ja "Sneak Attack" <me>
+/wait 2
+/mst federer /ja "Provoke" [t]
+/mst ozawa /ja "Trick Attack" <me>
+/wait 2
+/mst ozawa /ws "Viper Bite" [t]
+/wait 2
+/mst ozawa /equipset 1
+/mst woods /ma "Blizzard II" [t]
+/mst messi /ma "Water II" [t]
+/wait 4
+/mst woods /ma "Blizzard II" [t]
+/mst messi /ma "Water II" [t]

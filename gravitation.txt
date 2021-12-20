@@ -1,0 +1,11 @@
+/mst shaq /ws "Red Lotus Blade" [t]
+/wait 2
+/mst giorgi /ja "Boost" <me>
+/wait 2
+/mst giorgi /ws "Keen Edge" [t]
+/mst woods /ma "Stonega II" [t]
+/wait 2
+/mst messi /ma "Stone II" [t]
+/wait 3
+/mst woods /ma "Stone II" [t]
+/mst messi /ma "Stone II" [t]

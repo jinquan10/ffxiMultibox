@@ -43,8 +43,8 @@
 /bind !f /mst shaq /ma "Flash" [t];
 /bind !d /mst shaq /ja "Provoke" [t];
 /bind !q /exec spamWS.txt;
-/bind !e /exec fragmentation.txt
-/bind !r /exec scission.txt
+/bind !e /exec distortion.txt
+/bind !r /exec gravitation.txt
 
 /bind !z /mst shaq /lockon;
 /bind !c /ra <t>;
